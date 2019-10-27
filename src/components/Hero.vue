@@ -1,7 +1,7 @@
 <template>
   <div class="text-center hero">
     <img class="mb-3 app-logo" src="/logo.png" alt="Vue.js logo" width="120" />
-    <h1 class="mb-4">Teste deploy preview</h1>
+    <h1 class="mb-4">Teste para ver unlockedeploy</h1>
     <p class="lead">
       This is a sample application that demonstrates an authentication flow for an SPA, using
       <a
